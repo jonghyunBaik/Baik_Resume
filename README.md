@@ -65,6 +65,10 @@
 
 <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghyunBaik&theme=transparent&show_icons=true)
+
+<br/>
+
 ---
 
 ### 🏌️ 그의 목표
