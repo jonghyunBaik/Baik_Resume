@@ -48,7 +48,7 @@
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghyunBaik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sir-Crab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <br/>
@@ -65,7 +65,7 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghyunBaik&theme=transparent&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sir-Crab&theme=transparent&show_icons=true)
 
 <br/>
 
